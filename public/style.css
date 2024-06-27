@@ -1,0 +1,24 @@
+h1 {
+  color: maroon;
+}
+
+.post {
+  background-color: blanchedalmond;
+}
+
+h3 {
+  font-style: italic;
+}
+
+#createNewPost {
+  background-color: rgb(2, 100, 129);
+  color: white;
+  border-radius: 5%;
+  padding: 0.4em;
+  text-decoration: none;
+}
+
+div form {
+  display: inline;
+  margin-left: 0.7em;
+}
